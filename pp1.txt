@@ -1,0 +1,47 @@
+# is used for commenting at the beginning of the sentence( applications -  for documentation)
+'''
+    ''' in between  code will not be exected 
+"" 
+    "" is used for multi commenting lines 
+import this  
+then gen of the python will execute
+*import  is the keyword  connection between the python files
+
+import p_1
+print(p_1. a)
+
+**BARGAINED CHARACTERS
+ Controls and Data structures--ABC languages
+ Strings and its formats--from C
+ Regular expressions--Pearl
+ Exception handling--Module 3
+ Magic methods from--fortron
+**Python is a
+             object oriented programming language--object,class (used if different operations has to be done )
+             dynamic typed language-(data type variable itself can be executed without mentioning) 
+static (compiler-which coverts from human language to machine language)
+             Scripting,Interpreted,Compiled,functional programming
+FLAVORS OF PYTHON**
+Cpython-written in c,Most common implementation of python
+Jython-java implementation
+Ironpython-implementation of the python 
+Brython- runs browser
+Rubypython-bridge btw python and ruby
+Micropython-runs in micro controllers
+print--> 5 parameters(object,sep,end,file,flush) 
+object-->to print the value
+sep-->seperator
+EX: a=1                        OUTPUT:
+    b=2                             1$2
+    print(a,b,sep='$')
+end--> which is used to add the string at the end of the value
+print(str(a),b,end='%%')
+print(str(c))
+**---> Variables= it is a name which is used to identify the value of variableswhich is stored in a specific  memory location
+ RULES:
+*start with only alphabets,underscores
+*no spaces are allowed
+*no special characters like !@#$%^&*()+ except _
+*case sensitive
+*keywords are not allowed
+*the char following the 1st char can be alphabets,numbers,underscores
